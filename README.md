@@ -13,7 +13,7 @@ De maneira resumida, podemos entender ergonomia como o estudo da relação que e
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Pbjetivo do trabalho
+# Objetivo do trabalho
 Este projeto de Ergonomia, sobre gestão de saúde e segurança no trabalho, tem como finalidade discutir assuntos relacionadas a doenças relacionadas ao trabalho, sinalização de segurança, insalubridade e periculosidade.
 Identificamos as causas e prevenção das doenças relacionadas ao trabalho.
 Prevenção de acidentes com sinalização na segurança. 
