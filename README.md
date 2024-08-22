@@ -1,6 +1,8 @@
-# Aprendizado por Projeto Integrado (API)
+# Ergonomia
 
-Projeto pedagógico que tem como objetivo prestar um serviço de consultaria à empresa Doce Sabor. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
+Ergonomia é o conjunto de regras e procedimentos que visam os cuidados com a saúde do profissional, dentro e fora do seu ambiente de trabalho. Regulamentada pela NR 17, pode ser dividida em três áreas: ergonomia física, cognitiva e organizacional.
+Na prática, ela é o conjunto de regras e procedimentos que estudam a organização do ambiente de trabalho e as interações entre o homem, as máquinas e equipamentos. Seu objetivo é reduzir riscos, atuando nas condições dos espaços físicos da empresa e organização de processos corporativos.
+De maneira resumida, podemos entender ergonomia como o estudo da relação que existe entre o homem e a forma como ele executa seu trabalho – presente, inclusive, na legislação por meio da Norma Regulamentadora 17.
 
 # Índice
 
@@ -11,7 +13,7 @@ Projeto pedagógico que tem como objetivo prestar um serviço de consultaria à 
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
+# Pbjetivo do trabalho
 Este projeto de Ergonomia, sobre gestão de saúde e segurança no trabalho, tem como finalidade discutir assuntos relacionadas a doenças relacionadas ao trabalho, sinalização de segurança, insalubridade e periculosidade.
 Identificamos as causas e prevenção das doenças relacionadas ao trabalho.
 Prevenção de acidentes com sinalização na segurança. 
@@ -49,49 +51,9 @@ Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a re
 ![produto sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/6e93df51-4867-40a8-8ce3-1d7157d88b58)
 
 
-### Tecnológias Específicas/Apoio
+### Tecnologias Específicas/Apoio
 
 ![tecnologias](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/ffc713af-882f-4e1e-b55e-cf8ab67ce213)
-
-### Mindset Digital
-Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
-
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints:
-Clique no link para ser direcionado para o o cronograma > (https://github.com/users/lucasbarros43/projects/8)]
-
-## Backlog do produto
-![git 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/22cdbedd-29ec-4775-afd2-2310f94e3886)
-
-![git 2](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/38a8ee5f-da4a-4aa4-ab35-d607c79df25a)
-
-![git 3](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/96b399f1-e72d-4348-bb14-2da183391e8a)
-
-![sprint 4 crono atualizado](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/0a355c82-f220-4487-a47f-bac356214b8f)
-
-
-## Burndown
-![burndown github](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/36ca4d8b-bcae-441b-8fc8-44168218083a)
-
-
-## Sprint 1 - SWOT
-![cronograma sprint 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/515ccd76-6dfc-4a8d-91ee-ddf617e34bea)
-
-## Sprint 2 - Previsão de demanda
-![crono sprint 2](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/3000d7b7-6335-4286-b3da-756db33a169e)
-
-      
-## Sprint 3 - Curva ABC
-![crono sprint 3](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/94dff335-6f75-49cb-8d24-5ae6ac3b6671)
-
-      
-## Sprint 4 - CANVAS
-![crono sprint 4](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/52a295ed-d256-4095-a2c7-cd197d791493)
-
 
 
 # Competências desenvolvidas
@@ -129,36 +91,6 @@ Conhecimento técnico
 Foco em resultados
 
 Desenvolvimento de tecnologias
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| Análise de SWOT | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Logo Maker | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Comprometimento | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Flexibilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-
-</details>
 
 
 # Autores
