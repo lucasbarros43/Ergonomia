@@ -4,38 +4,30 @@ Projeto pedagógico que tem como objetivo prestar um serviço de consultaria à 
 
 # Índice
 
-* [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
+* [Apresentação de Ergonomia](#Apresentação-de-Ergonomia)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
-* [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do Produto](#backlog-do-produto)
-* [Burndown](#burndown)
+* [Objetivo do Trabalho](#objetivo-do-projeto)
+* [Funcionalidades e Demonstrações da Apresentação](#Funcionalidades-e-demonstração-da-apresentação)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
+Este projeto de Ergonomia, sobre gestão de saúde e segurança no trabalho, tem como finalidade discutir assuntos relacionadas a doenças relacionadas ao trabalho, sinalização de segurança, insalubridade e periculosidade.
+Identificamos as causas e prevenção das doenças relacionadas ao trabalho.
+Prevenção de acidentes com sinalização na segurança. 
+E, por fim, analisamos a importância da análise  de insalubridade e periculosidade para uma boa gestão de prevenção.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 02/04/2024 | concluido| [Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
-|01 | 14/04/2024 | concluido| [Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Flucasbarros43%2FAPI-012024-GTS%2Fmain%2FSprint%25201%2Fdocumento%2FRelat%25C3%25B3rio%2520do%2520projeto%2520integrador%2520-%2520GTS%2520Group.docx&wdOrigin=BROWSELINK) | 
-|02|  05/05/2024| concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
-|03| 26/05/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
-|04| 16/06/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) |
-|Feira de Soluções|27/06/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
+|Kick Off | 21/08/2024 | concluído| [Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
+|Brainstorm | 22/08/2024 | concluido| [Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Flucasbarros43%2FAPI-012024-GTS%2Fmain%2FSprint%25201%2Fdocumento%2FRelat%25C3%25B3rio%2520do%2520projeto%2520integrador%2520-%2520GTS%2520Group.docx&wdOrigin=BROWSELINK) | 
+|Divisão de tarefas|  22/08/2024| concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
+|Compilação de dados| 23/08/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
+|Edição dos slides| 25/08/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) |
+|Organização da apresentação|26/06/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
+|Apresentação|28/08/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
 
 > Possíveis status: a fazer, em progresso e concluido
-
-# Micro Certificações
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 # Equipe
 
@@ -44,34 +36,10 @@ Sprint | Previsão | Status| Histórico|
 # Objetivo do Projeto
 Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a realização de vendas de produtos. Através de uma equipe bem relacionada, iremos analisar todos os seus pontos fortes e realizar planos estratégicos para sua empresa, desenvolvendo seu potencial, atingindo suas metas, além de ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
 
-# Funcionalidades e Demonstrações das Sprints
+# Funcionalidades e Demonstrações da Apresentação
 
-## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/NoLdCKkcR6A/0.jpg)](https://youtu.be/NoLdCKkcR6A)
-
-## Sprint 2
-
-
-[![SPRINT 1](https://img.youtube.com/vi/x6ZN4ay-oGw/0.jpg)](https://youtu.be/x6ZN4ay-oGw)
-
-## Sprint 3
-
-
-[![SPRINT 3](https://img.youtube.com/vi/Z3XodYZuZ-8/0.jpg)](https://youtu.be/Z3XodYZuZ-8)
-
-
-
-## Sprint 4
-
-
-[![SPRINT 4](https://img.youtube.com/vi/Z9Q2fCe14A8/0.jpg)](https://youtu.be/Z9Q2fCe14A8)
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "1º Semestre/2024" em Gestão da Produção Industrial
-
-[![feira](https://img.youtube.com/vi/RmM45v9na-U/0.jpg)](https://youtu.be/RmM45v9na-U)
-![imagem feira gts](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/4e9aeb2e-8d30-46e3-ba8c-d5063bd4ee99)
+## Vídeo de Apresentação de Ergonomia
+[![Apresentação](https://img.youtube.com/vi/NoLdCKkcR6A/0.jpg)](https://youtu.be/NoLdCKkcR6A)
 
 
 ## Tecnologias Utilizadas
