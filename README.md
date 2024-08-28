@@ -38,10 +38,40 @@ Sprint | Previsão | Status| Histórico|
 
 # Funcionalidades e Demonstrações da Apresentação
 
-## Vídeo de Apresentação de Ergonomia
-[![Apresentação](https://img.youtube.com/vi/NoLdCKkcR6A/0.jpg)](https://youtu.be/NoLdCKkcR6A)
+## Apresentação de Ergonomia
 
-file:///C:/Users/Fatec/Desktop/Ergonomia%20-%20GTS.pdf
+![image](https://github.com/user-attachments/assets/121b4204-ce1f-4fa2-9498-6f74ee5a1588)
+
+![image](https://github.com/user-attachments/assets/7b87038b-7043-496b-895d-86554b95368c)
+
+![image](https://github.com/user-attachments/assets/236cdf41-f037-4ef7-ade7-929c707a9e2c)
+
+![image](https://github.com/user-attachments/assets/5e460070-473b-4cd5-8ce4-021f8e3d57ef)
+
+![image](https://github.com/user-attachments/assets/d4a94e6a-5513-4809-917f-f06a2ec9e4c2)
+
+![image](https://github.com/user-attachments/assets/8952bf9a-a316-4832-a537-8a09bf6fb040)
+
+![image](https://github.com/user-attachments/assets/1e99d62b-c424-4e23-805e-5b3180115ad4)
+
+![image](https://github.com/user-attachments/assets/014c6065-5559-4e9e-a9d8-7603fc15a7c2)
+
+![image](https://github.com/user-attachments/assets/87a34587-da2d-4cd0-9302-5459d8292b2a)
+
+![image](https://github.com/user-attachments/assets/6f401ff5-198d-45ec-bbd1-31a210349066)
+
+![image](https://github.com/user-attachments/assets/dcb52ace-ca88-4c30-9c4a-798c7fd1e7da)
+
+![image](https://github.com/user-attachments/assets/1f593f08-8b60-4953-a7fe-4adcd59cef1a)
+
+![image](https://github.com/user-attachments/assets/6cebc90f-95cb-46a3-a321-09cf24697f44)
+
+![image](https://github.com/user-attachments/assets/212f5c1d-4e02-43c5-86c3-501727edcaad)
+
+![image](https://github.com/user-attachments/assets/91020989-eb13-43de-9940-02b82d9eb5cc)
+
+![image](https://github.com/user-attachments/assets/dcf76e02-7441-4fd8-bf00-0aa80d7b70d0)
+
 
 ## Tecnologias Utilizadas
 
