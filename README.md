@@ -75,9 +75,178 @@ Sprint | Previsão | Status| Histórico|
 
 ## Tecnologias Utilizadas
 
-### Produto 
+### Normas Regulamentadoras
 
-![produto sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/6e93df51-4867-40a8-8ce3-1d7157d88b58)
+DOENÇAS RELACIONADA AO TRABALHO 
+
+ 
+
+Existe inúmeras doenças relacionadas ao trabalho e isso pode ser consultado portaria de nº 2309/2020 que inclui uma lista extensa dessas doenças e aqui falaremos das principais. As doenças são classificadas por tipos de: 
+
+ Natureza de exposição:  
+
+Doenças ocupacionais: que elas são causadas diretamente pelas condições de trabalho; 
+
+Doenças relacionadas ao trabalho: onde o trabalho contribui, mas não é a única causa. 
+
+Tipos causal seja por exposição:   
+
+Física: exposição aos ruídos vibração e radiação. 
+
+Químicas: contato com substâncias tóxicas. 
+
+Biológicas: exposição de agentes biológicos. 
+
+Ergonômicos: como postura inadequada esforço repetitivo. 
+
+Psicossociais: como estresse e pressão. 
+
+Sistema ou órgão atingido: 
+
+Musculoesqueléticos: ossos, músculos. 
+
+Respiratórias: sistema respiratório. 
+
+Dermatológicas: pele. 
+
+Cardiovasculares: sistema cardiovascular. 
+
+Neurológica: sistema nervoso. 
+
+Setor de atividade: é a área que eu trabalhadora atua, seja no ramo: 
+
+Agrícola: Exposição a agrotóxicos. 
+
+Industrial: Exposição a produtos químicos. 
+
+Saúde: Exposição a patógenos. 
+
+Construção Civil: Esforço físico, poeiras. 
+
+PRINCIPAIS DOENÇAS RELACIONADAS AO TRABALHO SÃO DOENÇAS 
+
+Musculoesqueléticas, segundo INSS, tem a maior número de afastamento. 
+
+LER/DORT (Lesões por Esforço Repetitivo: Incluem tendinites, bursites e síndrome do túnel do carpo. 
+
+Lombalgias: Dor nas costas devido a esforços físicos ou posturas inadequadas. 
+
+Doenças mentais e comportamentais vem em segundo lugar; 
+
+Estresse ocupacional relacionado a sobrecarga de trabalho, pressão, ambiente hostil. 
+
+Síndrome de burnout exaustão física e emocional devido ao estresse crônico do trabalho. 
+
+Doenças dermatológicas em terceiro lugar: 
+
+Dermatite de Contato: Reações alérgicas ou irritativas devido ao contato com substâncias químicas. 
+
+Câncer de Pele Ocupacional: Exposição a agentes cancerígenos como alcatrão, arsênico, e raios ultravioleta. 
+
+ 
+
+Doenças Infecciosas e Parasitárias em sequência: 
+
+Hepatites Virais: Especialmente relevante para profissionais da saúde. 
+
+Tuberculose: Associada a trabalhadores da saúde e condições de trabalho insalubres. 
+
+ 
+
+Doenças respiratórias: 
+
+Pneumoconioses: Doenças causadas pela inalação de poeiras, como silicose e asbestose. 
+
+Asma Ocupacional: Desenvolvida ou agravada por exposições no ambiente de trabalho. 
+
+ 
+
+ Doenças relacionadas ao câncer ocupacional: 
+
+ Mesotelioma: Associado à exposição ao amianto. 
+
+Leucemia: Relacionada à exposição a benzeno e outros solventes. 
+
+ 
+
+Fontes:  
+
+https://www.gov.br/trabalho-e-emprego/pt-br 
+
+https://abmes.org.br/arquivos/legislacoes/Portaria-2309-MS-2020-08-28.pdf 
+
+https://www.ddsonline.com.br/saude/doencas-ocupacionais-o-que-sao-e-como-preveni-las/ 
+
+https://www.careplus.com.br/careplus-mais/conheca-10-doencas-relacionadas-ao-trabalho-e-dicas-de-como-evitalas 
+
+
+
+## Sinalização
+
+NR 26 – Sinalização de segurança: o que é e como aplicar?
+A NR 26 é a norma regulamentadora do Governo Federal que estabelece as diretrizes para sinalização de segurança no ambiente de trabalho, utilizando cores padronizadas para indicar os riscos existentes no local.
+O que é a NR 26 Sinalização de segurança?
+A NR 26 é uma norma regulamentadora que faz parte da Consolidação das Leis do Trabalho (CLT) e é fiscalizada pelo Ministério do Trabalho. Ela estabelece medidas de sinalização de segurança no ambiente de trabalho de modo a prevenir acidentes e garantir a saúde e integridade física dos trabalhadores.
+Qual o objetivo da NR 26?
+O objetivo da NR 26, de acordo com as diretrizes estabelecidas pelo Ministério do Trabalho, é regular a utilização de sinais de segurança nos locais de trabalho, a fim de prevenir acidentes e garantir a saúde e a integridade física dos trabalhadores.
+Ela busca assegurar que os ambientes laborais sejam devidamente sinalizados, de acordo com padrões definidos, de forma a alertar sobre os possíveis riscos presentes no local.
+Além disso, a NR 26 estabelece as responsabilidades das empresas e dos colaboradores em relação à sinalização de segurança, estabelecendo uma comunicação clara e eficaz para que todos compreendam os potenciais perigos existentes no ambiente de trabalho e possam agir de maneira adequada para evitar acidentes.
+Onde a NR 26 se aplica?
+A NR 26 se aplica a todos os locais de trabalho no Brasil, independentemente do setor ou da atividade realizada. Ela é direcionada a todas as empresas e estabelecimentos que possuem funcionários, sejam eles públicos ou privados, tais como indústria, comércio, serviços e outros espaços.
+Nesses ambientes, a NR deve ser usada para identificar:
+•	Equipamentos de segurança, como EPIs;
+•	Tubulações que conduzem líquidos e gases;
+•	Áreas delimitadas;
+•	Produtos químicos;
+•	E outros riscos existentes.
+Além disso, a NR 26 ainda determina a rotulagem e classificação de produtos químicos, como veremos mais adiante.
+Como deve ser feita a sinalização de segurança?
+A norma regulamentadora nº 26 se baseia em dois recursos principais: a sinalização por cores, e a classificação e rotulagem dos produtos químicos. Vamos entender mais sobre isso:
+Sinalização por cores
+A NR 26 determina quais cores devem ser utilizadas para identificar qual tipo de risco, e a sinalização deve respeitar o padrão de cores determinadas.
+A adoção das cores é obrigatória para comunicação de segurança a respeito dos riscos, além de sinalizar a presença de tubulações, equipamentos e áreas delimitadas, como vimos anteriormente. Um exemplo é a sinalização de extintores, que são equipamentos de segurança e sempre são indicados por placas de cor vermelha.
+Classificação e rotulagem
+Já a classificação e rotulagem preventiva de produtos químicos se refere aos produtos utilizados no local de trabalho que apresentam riscos à saúde ou segurança dos funcionários.
+Os critérios para identificação desses riscos são estabelecidos pelo Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos Químicos (GHS), que é uma abordagem universal estabelecida pela ONU.
+Classificação e rotulagem
+Já a classificação e rotulagem preventiva de produtos químicos se refere aos produtos utilizados no local de trabalho que apresentam riscos à saúde ou segurança dos funcionários.
+Os critérios para identificação desses riscos são estabelecidos pelo Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos Químicos (GHS), que é uma abordagem universal estabelecida pela ONU.
+Quais são as cores para a sinalização de segurança?
+A NR 26 define e padroniza as cores usadas para sinalização de segurança no ambiente de trabalho — cada uma possui significados específicos, e seu uso correto é fundamental para alertar os trabalhadores sobre os diferentes tipos de riscos e situações presentes no local.
+Vermelho
+Deve ser usado para indicar equipamentos de proteção e combate a incêndio, como extintores e portas de saída de emergência.
+Laranja
+Já o laranja é um indicador de perigo, sendo utilizado para indicar as partes móveis de máquinas e equipamentos, faces e proteções internas de caixas de dispositivos elétricos, entre outros.
+Amarelo
+O amarelo indica que é necessário tomar cuidado. É usado em corrimões, parapeitos, pisos, portas de elevadores, escadas rolantes, meio-fio com diferença de nível, áreas ao redor de equipamentos de combate a incêndios e equipamentos de transporte e manipulação de materiais, tais como empilhadeiras e tratores.
+Verde
+Por sua vez, o verde é uma cor que representa segurança. A cor é usada para identificar equipamentos de primeiros socorros, EPIs, faixas de segurança que delimitam o acesso a áreas com riscos mecânicos, áreas de vivência (como espaço para fumantes), sinalização de portas de entrada em salas de atendimento de urgência, saídas de emergência e pontos de encontro.
+Azul
+O azul é usado para indicar uma ação obrigatória, tais como o uso de EPIs, ou ainda para impedir a inicialização ou movimentação de equipamentos. Por isso, pode ser utilizado também para sinalizar dispositivos de segurança em máquinas.
+Púrpura
+Já o púrpura indica os perigos provenientes das radiações eletromagnéticas penetrantes e partículas nucleares. É usado em portas que dão acesso a locais onde se manipulam ou armazenam materiais radioativos ou contaminados por materiais radioativos, recipientes contendo materiais radioativos ou refugos de materiais radioativos, e em sinais luminosos para indicar equipamentos produtores de radiações eletromagnéticas penetrantes e partículas nucleares.
+Branco
+O branco indica áreas de circulação e passagens de pessoas, além de demarcar o sentido de circulação e outras setas de sinalização. Também é usado para identificar equipamentos como coletores de resíduos de serviços de saúde e áreas de armazenamento de equipamentos de emergência.
+Preto
+Por fim, o preto sinaliza áreas onde há riscos específicos, como zonas de movimentação de cargas pesadas ou materiais perigosos. Por isso, é usado para indicar a presença de coletores de resíduos não relacionados a serviços de saúde.
+Também pode ser usado para identificar canalizações de inflamáveis e combustíveis de alta viscosidade.
+ 
+Essas cores são utilizadas em diversos tipos de sinalização, como placas, adesivos, fitas e pinturas, e são fundamentais para garantir a segurança dos trabalhadores no ambiente de trabalho.
+Identifique e mapeie os riscos
+Realize uma avaliação completa do local de trabalho para identificar todos os potenciais riscos e determinar quais áreas necessitam de sinalização de segurança.
+Treine os colaboradores
+Forneça treinamento adequado para os funcionários, para que eles compreendam o significado das diferentes cores e sinais de segurança, bem como saibam os procedimentos a serem seguidos em situações de emergência.
+
+
+## Insalubridade e Periculosidade
+
+| Periculosidade| Insalubridade |
+|------|--------|
+|Risco imediato à vida do trabalhador |Risco gradual à saúde do trabalhador |
+| Não tem níveis diferentes | Pode ser de grau mínimo, médio ou máximo |
+| Adicional é sempre de 30% | Adicional de 10%, 20% ou 40%, conforme a graduação |
+| Calculado sobre o salário base do empregado  |  Calculado sobre o salário mínimo |
+| Previsto nos Art. 193 a 196 da CLT e regulamentado pela NR 16  | Previsto nos Art. 189 e 192 da CLT regulamentado pela NR 15  |
 
 
 ### Tecnologias Específicas/Apoio
