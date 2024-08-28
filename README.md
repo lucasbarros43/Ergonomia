@@ -36,9 +36,6 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/user-attachments/assets/d718f9e8-6a22-4bde-9718-2bf073972c71)
 
 
-# Objetivo do Projeto
-Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a realização de vendas de produtos. Através de uma equipe bem relacionada, iremos analisar todos os seus pontos fortes e realizar planos estratégicos para sua empresa, desenvolvendo seu potencial, atingindo suas metas, além de ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
-
 # Funcionalidades e Demonstrações da Apresentação
 
 ## Vídeo de Apresentação de Ergonomia
