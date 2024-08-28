@@ -41,6 +41,7 @@ Sprint | Previsão | Status| Histórico|
 ## Vídeo de Apresentação de Ergonomia
 [![Apresentação](https://img.youtube.com/vi/NoLdCKkcR6A/0.jpg)](https://youtu.be/NoLdCKkcR6A)
 
+file:///C:/Users/Fatec/Desktop/Ergonomia%20-%20GTS.pdf
 
 ## Tecnologias Utilizadas
 
